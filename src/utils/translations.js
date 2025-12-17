@@ -4,7 +4,7 @@ export const translations = {
     // Welcome Screen
     appName: "Mkulima",
     appSubtitle: "Smart Farming Assistant",
-    welcomeDescription: "Get simple advice on what crops to grow based on your location and farm",
+    welcomeDescription: "Get advice on what crops to grow based on your location and farm",
     getStarted: "Get Started",
     
     // Name Screen
